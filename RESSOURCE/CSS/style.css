@@ -1,0 +1,45 @@
+* {
+    font-family: Helvetica, sans-serif;
+    border: RED solid 2px;
+}   
+
+.banner {
+    background-image: url("pattern.jpeg");
+    background-size: cover;
+    height: 200px;
+}
+
+.banner h1 {
+    margin: 40px auto;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.bruches h2 {
+    background-color: mediumspringgreen;
+}
+
+.frames h2 {
+    background-color: lightcoral;
+}
+
+.paint h2 {
+    background-color: skyblue;
+}
+
+footer {
+    font-style: italic;
+}
+
+.highlight {
+    font-weight: bold;
+    color: blue;
+}
